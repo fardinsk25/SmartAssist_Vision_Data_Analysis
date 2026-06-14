@@ -275,7 +275,7 @@ Data Analytics • AI • IoT • Computer Vision
 
 🌐 Portfolio: https://fardinsk25.github.io/portfolio/
 
-💼 LinkedIn: https://www.linkedin.com/in/fardin-shaikh-b4782521a
+💼 LinkedIn: [https://www.linkedin.com/in/fardin-shaikh-b4782521a](https://www.linkedin.com/in/fardinshaikh02/)
 
 🔗 Live Dashboard:  
 https://fardinsk25.github.io/SmartAssist_Vision_Data_Analysis/
